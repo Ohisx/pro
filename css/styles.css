@@ -1,0 +1,25 @@
+body
+{
+background-color: #96f8f8;
+}
+
+h1{
+
+color:rgb(247, 75, 37);
+
+}
+h2{
+
+    color:rgb(234, 110, 28);
+    
+    }
+img{
+height: 20%; width: 15%;
+float: right;
+margin: 0%;
+padding: 0%;
+}
+.clearfix::after {
+    content: "";
+        display: table;
+}
